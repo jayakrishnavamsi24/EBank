@@ -1,0 +1,20 @@
+.nav-element {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 10%;
+}
+
+.bank-logo {
+  width: 100px;
+}
+
+.logout-btn {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  padding: 7px 15px;
+  cursor: pointer;
+  outline: none;
+}

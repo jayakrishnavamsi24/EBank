@@ -1,0 +1,26 @@
+.home-bg-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+
+.home-bottom-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+  padding: 30px;
+}
+
+.home-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 38px;
+  font-weight: bold;
+  margin-top: 70px;
+}
+
+.atm-card {
+  width: 70%;
+  max-width: 500px;
+}
